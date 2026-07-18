@@ -3,7 +3,7 @@
 
 ### 관련 사이트
 
-### Claude AI 홈페이지 :
+#### Claude AI 홈페이지 :
 https://claude.ai/new
 <br>
 
@@ -11,5 +11,5 @@ https://claude.ai/new
 https://code.claude.com/docs/ko/quickstart
 <br>
 
-### 클로드 코드(Claude Code) 입문 Wikidocs :
+#### 클로드 코드(Claude Code) 입문 Wikidocs :
 https://wikidocs.net/book/19202
