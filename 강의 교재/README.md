@@ -6,3 +6,7 @@
 ### Claude AI 홈페이지 :
 https://claude.ai/new
 <br>
+
+#### Claude Code Docs 빠른 시작 :
+https://code.claude.com/docs/ko/quickstart
+<br>
